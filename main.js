@@ -3,9 +3,5 @@ var app = new Vue ({
     data: {
         messaggio: "hello world",
         url: "Logo.png"
-    },
-
-    methods: {
-
     }
 });
